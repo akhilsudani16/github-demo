@@ -10,4 +10,4 @@ touch red.pdf - create new file
 mkdir - make a new folder
 
 rm - delete file permanently
-rm -rf = delete folder
+rm -rf = delete folder.
