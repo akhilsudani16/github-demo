@@ -1,0 +1,13 @@
+ls - show current folder files
+ls -a = show all files, including hidden
+cd - change directory
+pwd - print current path
+cd.. - back one folder
+open. - Open the current folder in Mac.
+start. - Open the current folder in Windows.
+
+touch red.pdf - create new file 
+mkdir - make a new folder
+
+rm - delete file permanently
+rm -rf = delete folder
