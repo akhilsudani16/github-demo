@@ -18,4 +18,4 @@ First click i to insert a commit and type commit. Then click esc key to exit, th
 git log --abbrev-commit = commit id will be sort = c45199d
 git log --oneline = Show commit only first line
 
-git commit--amend
+git commit --amend 
