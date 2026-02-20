@@ -1,13 +1,9 @@
-Set Email for git
-git config --global user.email akhil@revatics.co.uk
-git config user.email - for check
-Crash terminal code
-
-
 The Very Basics of Git :
 
 Git init - create a new git repository 
 /Users/revaticsdevelopment/Desktop/Git-and-Github/Learning-Git-GitHub/.git/
 Git status - check status
 Git add < File Name> - add to the staging area
+Git Add . - all stage files committed once
 Git commit -m “Your Message” - commit files
+Git log - Show Git Commit Log
