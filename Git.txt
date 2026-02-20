@@ -6,4 +6,4 @@ Git status - check status
 Git add < File Name> - add to the staging area
 Git Add . - all stage files committed once
 Git commit -m “Your Message” - commit files
-Git log - Show Git Commit Log
+Git log - Show Git Commit Log.
