@@ -19,3 +19,37 @@ git log --abbrev-commit = commit id will be sort = c45199d
 git log --oneline = Show commit only first line
 
 git commit --amend 
+
+Complete Git 
+git --version → Check Git version
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+git config --list → View configuration
+git init → Initialise new repository
+git clone → Clone existing repository
+git status → Check current status
+git add → Add specific file
+git add . → Add all files
+git commit -m "message" → Commit staged files
+git commit -a -m "message" → Commit tracked files only
+git log → View commit history
+git log --oneline --graph --all → Compact history view
+git branch → List branches
+git branch → Create branch
+git switch → Switch branch
+git switch -c → Create & switch
+git merge → Merge branch
+git branch -d → Delete branch
+git fetch → Fetch without merge
+git diff → Show changes
+git diff HEAD → Compare with last commit
+git restore → Undo file changes
+git restore --staged → Unstage file
+git stash → Save temporary changes
+git stash list → View stashes
+git stash pop → Apply & remove stash
+git stash apply → Apply without removing
+git reset → Unstage file
+git reset --soft HEAD~1 → Undo commit keep staged
+git reset --mixed HEAD~1 → Undo commit keep changes
+git reset --hard HEAD~1 → Delete commit & changes
