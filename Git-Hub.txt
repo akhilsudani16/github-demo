@@ -1,0 +1,5 @@
+git remote -v -> check remote already exists or not.
+git remote add origin git@github.com:akhilsudani16/github-demo.git -> add remote existing files.
+git remote rename <old-name> <new-name> -> change remote name.
+git remote remove <name> -> remove remote.
+git push origin <branch-name> -> push any branch
